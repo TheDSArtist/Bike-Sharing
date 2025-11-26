@@ -1,0 +1,53 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+sdist/
+
+# macOS
+.DS_Store
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# pytest/coverage
+.pytest_cache/
+.coverage
+
+# Temporary files/folders
+*~
+*.bak
+
+# Database files (often SQLite)
+*.sqlite3
+db.sqlite3
+
+# VS Code
+.vscode/
+# Add this if you want to ignore all local user settings:
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+
+
+
+
