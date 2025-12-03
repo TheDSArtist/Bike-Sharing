@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/cca03d7d2b87471a98961c608974cabd/artifacts
+end_time: 1764679204164
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: cca03d7d2b87471a98961c608974cabd
+run_name: treasured-smelt-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764679193136
+status: 3
+tags: []
+user_id: patanwalah

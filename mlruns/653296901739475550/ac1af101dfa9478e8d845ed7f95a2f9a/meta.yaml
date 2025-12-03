@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/ac1af101dfa9478e8d845ed7f95a2f9a/artifacts
+end_time: 1764697747922
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: ac1af101dfa9478e8d845ed7f95a2f9a
+run_name: orderly-fowl-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697737168
+status: 3
+tags: []
+user_id: patanwalah

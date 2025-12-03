@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/50e9405eb50948cc9ea2e024ba0fa562/artifacts
+end_time: 1764677063160
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 50e9405eb50948cc9ea2e024ba0fa562
+run_name: selective-shrimp-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764677057841
+status: 3
+tags: []
+user_id: patanwalah

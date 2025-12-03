@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/be056854c7be4a33b44b5dd1bfc374fd/artifacts
+end_time: 1764676584149
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: be056854c7be4a33b44b5dd1bfc374fd
+run_name: youthful-cub-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764676578729
+status: 3
+tags: []
+user_id: patanwalah

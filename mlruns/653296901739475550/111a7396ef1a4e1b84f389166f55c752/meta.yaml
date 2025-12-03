@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/111a7396ef1a4e1b84f389166f55c752/artifacts
+end_time: 1764697831106
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 111a7396ef1a4e1b84f389166f55c752
+run_name: invincible-bee-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697811022
+status: 3
+tags: []
+user_id: patanwalah

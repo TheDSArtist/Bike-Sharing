@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/0830e6abd72149d49ff08824171f60d5/artifacts
+end_time: 1764700493233
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 0830e6abd72149d49ff08824171f60d5
+run_name: auspicious-ape-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764700480324
+status: 3
+tags: []
+user_id: patanwalah

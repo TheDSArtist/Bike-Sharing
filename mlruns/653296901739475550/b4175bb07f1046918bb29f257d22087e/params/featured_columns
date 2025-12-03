@@ -1,0 +1,1 @@
+["season", "yr", "mnth", "holiday", "weekday", "workingday", "weathersit", "temp", "atemp", "hum", "windspeed", "atemp_x_is_weekend", "temp_x_is_weekend", "windspeed_lag_7d", "windspeed_lag_1d", "hum_lag_7d", "hum_lag_1d", "atemp_lag_7d", "atemp_lag_1d", "temp_lag_7d", "temp_lag_1d", "is_weekend", "lag_demand_7d"]

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/3f442f5fbca343988307bb567492caf0/artifacts
+end_time: 1764674831825
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 3f442f5fbca343988307bb567492caf0
+run_name: big-colt-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764674824782
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/9c41e1b7d4a643edb9052600274a5a8c/artifacts
+end_time: 1764680609494
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 9c41e1b7d4a643edb9052600274a5a8c
+run_name: dapper-penguin-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764680602370
+status: 3
+tags: []
+user_id: patanwalah

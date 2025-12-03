@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/ce571953ae4f4a72822925ab14549337/artifacts
+end_time: 1764697409274
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: ce571953ae4f4a72822925ab14549337
+run_name: gregarious-koi-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697396275
+status: 3
+tags: []
+user_id: patanwalah

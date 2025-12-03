@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/438716735589480911/2569ab2c97624b0aaecb1a29f8ed0e1a/artifacts
+end_time: 1764601770305
+entry_point_name: ''
+experiment_id: '438716735589480911'
+lifecycle_stage: active
+run_id: 2569ab2c97624b0aaecb1a29f8ed0e1a
+run_name: intelligent-mare-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764601770299
+status: 3
+tags: []
+user_id: patanwalah

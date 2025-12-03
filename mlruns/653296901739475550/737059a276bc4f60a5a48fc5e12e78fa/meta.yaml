@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/737059a276bc4f60a5a48fc5e12e78fa/artifacts
+end_time: 1764694648944
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 737059a276bc4f60a5a48fc5e12e78fa
+run_name: trusting-trout-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764694633460
+status: 3
+tags: []
+user_id: patanwalah

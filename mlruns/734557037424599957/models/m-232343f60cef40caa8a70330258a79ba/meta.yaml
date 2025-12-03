@@ -1,0 +1,10 @@
+artifact_location: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/734557037424599957/models/m-232343f60cef40caa8a70330258a79ba/artifacts
+creation_timestamp: 1764702199695
+experiment_id: '734557037424599957'
+last_updated_timestamp: 1764702201062
+model_id: m-232343f60cef40caa8a70330258a79ba
+model_type: null
+name: final_validated_model
+source_run_id: 1e4e058373e94968b845aac7b644fe30
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/bc4ce48851f64a07aa36d8d984ee37c4/artifacts
+end_time: 1764698793356
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: bc4ce48851f64a07aa36d8d984ee37c4
+run_name: gaudy-skink-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764698779032
+status: 3
+tags: []
+user_id: patanwalah

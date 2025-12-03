@@ -1,0 +1,22 @@
+artifact_path: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/734557037424599957/models/m-a72df61f42714c4baf0996f872274dcc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-a72df61f42714c4baf0996f872274dcc
+model_size_bytes: 14378537
+model_uuid: m-a72df61f42714c4baf0996f872274dcc
+prompts: null
+run_id: ea06b6eca44241a3a42744fda36f8ede
+utc_time_created: '2025-12-02 18:56:52.199053'

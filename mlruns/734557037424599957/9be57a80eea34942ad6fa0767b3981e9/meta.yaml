@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/734557037424599957/9be57a80eea34942ad6fa0767b3981e9/artifacts
+end_time: 1764701811785
+entry_point_name: ''
+experiment_id: '734557037424599957'
+lifecycle_stage: active
+run_id: 9be57a80eea34942ad6fa0767b3981e9
+run_name: Hyperparameter_Tuning_CV
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764701800066
+status: 3
+tags: []
+user_id: patanwalah

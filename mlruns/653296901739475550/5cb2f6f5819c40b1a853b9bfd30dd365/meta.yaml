@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/5cb2f6f5819c40b1a853b9bfd30dd365/artifacts
+end_time: 1764697794151
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 5cb2f6f5819c40b1a853b9bfd30dd365
+run_name: gaudy-fish-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697781843
+status: 3
+tags: []
+user_id: patanwalah

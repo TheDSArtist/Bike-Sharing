@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/31567ed28d864719b562c6a2425b0404/artifacts
+end_time: 1764699100016
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 31567ed28d864719b562c6a2425b0404
+run_name: trusting-bee-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764699087732
+status: 3
+tags: []
+user_id: patanwalah

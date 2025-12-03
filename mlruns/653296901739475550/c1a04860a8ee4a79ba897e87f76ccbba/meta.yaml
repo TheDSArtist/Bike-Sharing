@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/c1a04860a8ee4a79ba897e87f76ccbba/artifacts
+end_time: 1764698532311
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: c1a04860a8ee4a79ba897e87f76ccbba
+run_name: intrigued-skunk-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764698519290
+status: 3
+tags: []
+user_id: patanwalah

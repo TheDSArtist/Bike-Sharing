@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/3f718f7b9abe49b19da0582e35152618/artifacts
+end_time: 1764696789610
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 3f718f7b9abe49b19da0582e35152618
+run_name: adaptable-hawk-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764696776033
+status: 3
+tags: []
+user_id: patanwalah

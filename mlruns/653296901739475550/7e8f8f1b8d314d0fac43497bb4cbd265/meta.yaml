@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/7e8f8f1b8d314d0fac43497bb4cbd265/artifacts
+end_time: 1764688988951
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 7e8f8f1b8d314d0fac43497bb4cbd265
+run_name: bedecked-mule-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764688987400
+status: 4
+tags: []
+user_id: patanwalah

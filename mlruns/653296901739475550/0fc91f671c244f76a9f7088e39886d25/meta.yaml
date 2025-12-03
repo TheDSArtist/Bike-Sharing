@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/0fc91f671c244f76a9f7088e39886d25/artifacts
+end_time: 1764679036723
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 0fc91f671c244f76a9f7088e39886d25
+run_name: gregarious-kite-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764679024472
+status: 3
+tags: []
+user_id: patanwalah

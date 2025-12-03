@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/1a6cbd8349214dfdac55af6fbf775949/artifacts
+end_time: 1764680469144
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 1a6cbd8349214dfdac55af6fbf775949
+run_name: amazing-goat-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764680469137
+status: 4
+tags: []
+user_id: patanwalah

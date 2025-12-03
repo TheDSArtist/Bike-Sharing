@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/b031d8b867b74df68170e0b12b087509/artifacts
+end_time: 1764684536681
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: b031d8b867b74df68170e0b12b087509
+run_name: nebulous-horse-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764684030030
+status: 3
+tags: []
+user_id: patanwalah

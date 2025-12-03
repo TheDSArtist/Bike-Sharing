@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/07ac41723fa24ca6b468123416530ca9/artifacts
+end_time: 1764700299884
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 07ac41723fa24ca6b468123416530ca9
+run_name: salty-shrew-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764700290987
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/eb26024a2a3744afbe37531b9502cd88/artifacts
+end_time: 1764698029371
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: eb26024a2a3744afbe37531b9502cd88
+run_name: colorful-koi-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764698017226
+status: 3
+tags: []
+user_id: patanwalah

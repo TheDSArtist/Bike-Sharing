@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/53d57c237a2f48b6999df8fcf2f9f804/artifacts
+end_time: 1764699350772
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 53d57c237a2f48b6999df8fcf2f9f804
+run_name: rogue-moose-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764699326066
+status: 3
+tags: []
+user_id: patanwalah

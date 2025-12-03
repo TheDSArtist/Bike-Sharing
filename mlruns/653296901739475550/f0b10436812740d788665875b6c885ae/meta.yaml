@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/f0b10436812740d788665875b6c885ae/artifacts
+end_time: 1764697781823
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: f0b10436812740d788665875b6c885ae
+run_name: thoughtful-hound-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697762411
+status: 3
+tags: []
+user_id: patanwalah

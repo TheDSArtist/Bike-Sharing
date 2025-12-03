@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/0292ff305aaf41599b35e75d2ed99c1a/artifacts
+end_time: 1764676395531
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 0292ff305aaf41599b35e75d2ed99c1a
+run_name: upset-crane-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764676389405
+status: 3
+tags: []
+user_id: patanwalah

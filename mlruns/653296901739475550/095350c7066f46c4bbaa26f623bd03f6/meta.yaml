@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/095350c7066f46c4bbaa26f623bd03f6/artifacts
+end_time: 1764689788554
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 095350c7066f46c4bbaa26f623bd03f6
+run_name: bright-stag-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764689769802
+status: 3
+tags: []
+user_id: patanwalah

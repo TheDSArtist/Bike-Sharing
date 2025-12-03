@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/ebb51864e95b43c5bb69a467bb13822a/artifacts
+end_time: 1764679244803
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: ebb51864e95b43c5bb69a467bb13822a
+run_name: burly-chimp-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764679233798
+status: 3
+tags: []
+user_id: patanwalah

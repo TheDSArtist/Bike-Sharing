@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/242fd53e4042482f9731a20382f20bac/artifacts
+end_time: 1764698992657
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 242fd53e4042482f9731a20382f20bac
+run_name: glamorous-hound-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764698954270
+status: 3
+tags: []
+user_id: patanwalah

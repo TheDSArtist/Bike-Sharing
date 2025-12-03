@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/79a1019875c84c149fbc78fe69f4e494/artifacts
+end_time: 1764676261672
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 79a1019875c84c149fbc78fe69f4e494
+run_name: honorable-conch-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764676254318
+status: 3
+tags: []
+user_id: patanwalah

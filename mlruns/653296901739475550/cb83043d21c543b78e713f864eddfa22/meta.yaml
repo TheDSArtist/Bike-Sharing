@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/cb83043d21c543b78e713f864eddfa22/artifacts
+end_time: 1764697967688
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: cb83043d21c543b78e713f864eddfa22
+run_name: debonair-crab-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697955761
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,1 @@
+make_scorer(neg_mean_absolute_percentage_error, response_method='predict')

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/f194ffa4f958423dacfd34a1dbacd8c4/artifacts
+end_time: 1764699083573
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: f194ffa4f958423dacfd34a1dbacd8c4
+run_name: nervous-sloth-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764699063112
+status: 3
+tags: []
+user_id: patanwalah
