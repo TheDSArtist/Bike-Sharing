@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/75cb52aee8b5480493e06e69792b3164/artifacts
+end_time: 1764676908366
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 75cb52aee8b5480493e06e69792b3164
+run_name: shivering-swan-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764676902997
+status: 3
+tags: []
+user_id: patanwalah

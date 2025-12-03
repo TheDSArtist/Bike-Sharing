@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/4db7283ee861467f88534348b236367f/artifacts
+end_time: 1764697843483
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 4db7283ee861467f88534348b236367f
+run_name: dashing-wasp-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697831130
+status: 3
+tags: []
+user_id: patanwalah

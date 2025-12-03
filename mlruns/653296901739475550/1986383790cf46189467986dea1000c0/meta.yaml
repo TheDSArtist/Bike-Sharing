@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/1986383790cf46189467986dea1000c0/artifacts
+end_time: 1764675795852
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 1986383790cf46189467986dea1000c0
+run_name: kindly-whale-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764675788344
+status: 3
+tags: []
+user_id: patanwalah

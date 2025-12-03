@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/d522d4f0d8574f85905e1b3d1e7b3d0a/artifacts
+end_time: 1764697126734
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: d522d4f0d8574f85905e1b3d1e7b3d0a
+run_name: bold-snail-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697115316
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/653cfc9be5044555b7e7953c307b0776/artifacts
+end_time: 1764696689601
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 653cfc9be5044555b7e7953c307b0776
+run_name: spiffy-turtle-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764696676355
+status: 3
+tags: []
+user_id: patanwalah

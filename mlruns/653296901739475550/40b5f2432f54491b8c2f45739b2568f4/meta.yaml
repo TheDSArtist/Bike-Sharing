@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/40b5f2432f54491b8c2f45739b2568f4/artifacts
+end_time: 1764689102751
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 40b5f2432f54491b8c2f45739b2568f4
+run_name: redolent-shrew-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764689098529
+status: 3
+tags: []
+user_id: patanwalah

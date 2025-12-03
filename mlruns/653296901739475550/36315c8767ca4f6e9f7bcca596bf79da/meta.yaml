@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/36315c8767ca4f6e9f7bcca596bf79da/artifacts
+end_time: 1764682767939
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 36315c8767ca4f6e9f7bcca596bf79da
+run_name: awesome-quail-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764682062150
+status: 3
+tags: []
+user_id: patanwalah

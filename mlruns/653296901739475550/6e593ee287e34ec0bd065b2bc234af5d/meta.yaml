@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/6e593ee287e34ec0bd065b2bc234af5d/artifacts
+end_time: 1764696928399
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 6e593ee287e34ec0bd065b2bc234af5d
+run_name: bustling-wolf-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764696913423
+status: 3
+tags: []
+user_id: patanwalah

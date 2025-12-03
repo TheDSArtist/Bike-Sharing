@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/734557037424599957/75edd5d820d8427f8cf3f543ad0b1dfb/artifacts
+end_time: 1764702131453
+entry_point_name: ''
+experiment_id: '734557037424599957'
+lifecycle_stage: active
+run_id: 75edd5d820d8427f8cf3f543ad0b1dfb
+run_name: Final_Test_Evaluation_on_Held_Out_Set
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764702129635
+status: 3
+tags: []
+user_id: patanwalah

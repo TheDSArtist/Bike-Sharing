@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/63f084e206d142ce82de32ef486a81fa/artifacts
+end_time: 1764683184586
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 63f084e206d142ce82de32ef486a81fa
+run_name: wise-kit-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764683125793
+status: 4
+tags: []
+user_id: patanwalah

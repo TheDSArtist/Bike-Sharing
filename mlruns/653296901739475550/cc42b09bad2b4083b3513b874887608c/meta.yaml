@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/cc42b09bad2b4083b3513b874887608c/artifacts
+end_time: 1764676779317
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: cc42b09bad2b4083b3513b874887608c
+run_name: rumbling-hound-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764676773815
+status: 3
+tags: []
+user_id: patanwalah

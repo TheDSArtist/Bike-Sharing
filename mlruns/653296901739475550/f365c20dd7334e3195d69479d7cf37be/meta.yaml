@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/f365c20dd7334e3195d69479d7cf37be/artifacts
+end_time: 1764697239457
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: f365c20dd7334e3195d69479d7cf37be
+run_name: incongruous-chimp-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697222558
+status: 3
+tags: []
+user_id: patanwalah

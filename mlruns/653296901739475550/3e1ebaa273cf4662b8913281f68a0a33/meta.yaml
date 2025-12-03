@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/3e1ebaa273cf4662b8913281f68a0a33/artifacts
+deleted_time: 1764690345207
+end_time: 1764678844259
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: deleted
+run_id: 3e1ebaa273cf4662b8913281f68a0a33
+run_name: orderly-stoat-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764678089583
+status: 3
+tags: []
+user_id: patanwalah

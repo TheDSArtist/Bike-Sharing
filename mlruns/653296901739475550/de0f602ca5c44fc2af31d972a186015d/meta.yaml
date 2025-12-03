@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/de0f602ca5c44fc2af31d972a186015d/artifacts
+end_time: 1764697002050
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: de0f602ca5c44fc2af31d972a186015d
+run_name: industrious-bat-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764696987111
+status: 3
+tags: []
+user_id: patanwalah

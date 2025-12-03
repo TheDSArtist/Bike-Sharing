@@ -1,0 +1,1 @@
+["season", "yr", "mnth", "holiday", "weekday", "workingday", "weathersit", "temp", "atemp", "hum", "windspeed", "hr", "lag_demand_1h", "atemp_x_is_weekend", "atemp_x_hour_sin", "temp_x_is_weekend", "temp_x_hour_sin", "lag_1wk", "lag_24h", "dayofweek_cos", "dayofweek_sin", "hour_cos", "hour_sin", "is_weekend"]

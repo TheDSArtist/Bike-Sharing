@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/81df0ae826444ca8b0f9761de0e8c0d7/artifacts
+end_time: 1764674795535
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 81df0ae826444ca8b0f9761de0e8c0d7
+run_name: bemused-quail-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764674790372
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/a68bd1d5c72446f5b510671578fb5f76/artifacts
+end_time: 1764674577023
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: a68bd1d5c72446f5b510671578fb5f76
+run_name: unleashed-koi-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764674571962
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/fa287142391f446a988eaee0cb39bb21/artifacts
+end_time: 1764699754938
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: fa287142391f446a988eaee0cb39bb21
+run_name: enchanting-seal-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764699725105
+status: 3
+tags: []
+user_id: patanwalah

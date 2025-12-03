@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/601df5d5917343f78869e02a4fb53b73/artifacts
+end_time: 1764700550252
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 601df5d5917343f78869e02a4fb53b73
+run_name: skittish-shad-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764700532299
+status: 3
+tags: []
+user_id: patanwalah

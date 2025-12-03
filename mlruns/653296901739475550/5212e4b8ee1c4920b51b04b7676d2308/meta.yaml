@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/5212e4b8ee1c4920b51b04b7676d2308/artifacts
+end_time: 1764693453658
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 5212e4b8ee1c4920b51b04b7676d2308
+run_name: intelligent-fish-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764693433247
+status: 3
+tags: []
+user_id: patanwalah

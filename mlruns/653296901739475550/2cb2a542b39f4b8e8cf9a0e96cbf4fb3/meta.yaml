@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/2cb2a542b39f4b8e8cf9a0e96cbf4fb3/artifacts
+end_time: 1764674817161
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 2cb2a542b39f4b8e8cf9a0e96cbf4fb3
+run_name: judicious-gnat-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764674815960
+status: 4
+tags: []
+user_id: patanwalah

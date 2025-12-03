@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/c27d3f167fe54f7b8da941ca687db753/artifacts
+end_time: 1764701159166
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: c27d3f167fe54f7b8da941ca687db753
+run_name: capable-calf-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764701151202
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/93af15bd44794598a1943b6e3bd4aa76/artifacts
+end_time: 1764699641744
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 93af15bd44794598a1943b6e3bd4aa76
+run_name: suave-conch-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764699602830
+status: 3
+tags: []
+user_id: patanwalah

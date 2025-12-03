@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/e88b528759ac40e2a75975475b567092/artifacts
+end_time: 1764696274389
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: e88b528759ac40e2a75975475b567092
+run_name: incongruous-skunk-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764696254074
+status: 3
+tags: []
+user_id: patanwalah

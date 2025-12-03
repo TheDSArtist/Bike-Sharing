@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/f0d4cb7b14be4a3da69f3eb384dbaeb5/artifacts
+end_time: 1764700735074
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: f0d4cb7b14be4a3da69f3eb384dbaeb5
+run_name: skittish-grub-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764700728875
+status: 3
+tags: []
+user_id: patanwalah

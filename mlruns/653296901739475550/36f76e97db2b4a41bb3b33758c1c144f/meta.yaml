@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/36f76e97db2b4a41bb3b33758c1c144f/artifacts
+end_time: 1764697287722
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 36f76e97db2b4a41bb3b33758c1c144f
+run_name: sedate-ram-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764697274758
+status: 3
+tags: []
+user_id: patanwalah

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/11713881baed4fedbc3387fbc4f10689/artifacts
+end_time: 1764679258980
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 11713881baed4fedbc3387fbc4f10689
+run_name: grandiose-wasp-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764679247696
+status: 3
+tags: []
+user_id: patanwalah

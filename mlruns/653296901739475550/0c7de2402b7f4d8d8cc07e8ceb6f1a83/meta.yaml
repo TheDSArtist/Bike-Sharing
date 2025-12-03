@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/0c7de2402b7f4d8d8cc07e8ceb6f1a83/artifacts
+end_time: 1764689242175
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 0c7de2402b7f4d8d8cc07e8ceb6f1a83
+run_name: fearless-crow-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764689237190
+status: 3
+tags: []
+user_id: patanwalah

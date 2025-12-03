@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/6adbb736add14eca84e2ca86d079633c/artifacts
+end_time: 1764699063093
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: 6adbb736add14eca84e2ca86d079633c
+run_name: delightful-snipe-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764699031412
+status: 3
+tags: []
+user_id: patanwalah

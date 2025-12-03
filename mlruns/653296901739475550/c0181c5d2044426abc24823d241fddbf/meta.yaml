@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/c0181c5d2044426abc24823d241fddbf/artifacts
+end_time: 1764675132813
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: c0181c5d2044426abc24823d241fddbf
+run_name: useful-vole-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764675128070
+status: 3
+tags: []
+user_id: patanwalah

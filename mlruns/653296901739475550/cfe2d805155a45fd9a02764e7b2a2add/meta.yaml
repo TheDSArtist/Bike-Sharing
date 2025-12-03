@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/patanwalah/Documents/Interviews/task/data-science-task/mlruns/653296901739475550/cfe2d805155a45fd9a02764e7b2a2add/artifacts
+end_time: 1764701218021
+entry_point_name: ''
+experiment_id: '653296901739475550'
+lifecycle_stage: active
+run_id: cfe2d805155a45fd9a02764e7b2a2add
+run_name: likeable-foal-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764701212637
+status: 3
+tags: []
+user_id: patanwalah
